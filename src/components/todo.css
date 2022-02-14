@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    width: 20%;
+    margin: 0 auto;
+    
+}
+.mainbox{
+    background-color: #1D1B26;
+    height: 1000px;
+    width: 100%;
+
+}
+.maininput{
+    padding:10px 20px;
+    border: none;
+    background-color: whitesmoke;
+    border-radius: 5px;
+
+}
+.editicon{
+    color:#1D1B26 ;
+    font-size: 30px;
+}
+.maintodo{
+    display: flex;
+    flex-wrap: wrap;
+}
+.list{
+color: #1D1B26;
+margin: auto;
+font-weight: bold;
+font-size: larger;
+width: 40%;
+}
+.list li{
+    background-color: whitesmoke;
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+
+}
